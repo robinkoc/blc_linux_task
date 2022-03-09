@@ -1,0 +1,98 @@
+tcpdump-
+	dump traffic on a network
+man-
+	an interface to the system reference manuals
+zip-
+	package and compress files into archives
+dpkg-
+	a package manager for the Debian
+df-
+	reports the file system disk space usage
+du-
+	estimates file space usage
+apt-get-
+	program to handle APT packages
+scp- 
+	OpenSSH secure file copy
+unzip-
+	list, test and extract compressed files in a ZIP archive
+touch-
+	changes file timestamps, commonly used for creating files
+sudo su-
+	gives the user administrator privileges, can be usefull for when the user 
+	going to need privilages for a time
+ssh-
+	OpenSSH remote login client
+chmod-
+	used for changing the permissions of a file or a user or a user group
+minicom-
+	text-based serial port communications program
+ping-
+	send ICMP ECHO_REQUEST to network hosts
+tar- 
+	an utility for making archives
+top- 
+	used for displaying linux processes
+ifconfig-
+	Used for assigning an address to a network interface and configuring or displaying the 
+	current network interface configuration information
+grep-
+	For printing lines that matches certain conditions
+gcc- 
+	C and C++ compiler
+ps- 
+	reports a snapshot of the current processes
+
+grep-
+	For printing lines that matches certain conditions
+gcc- 
+	C and C++ compiler
+ps- 
+	reports a snapshot of the current processes
+pkill-
+	grep for the currently running processes
+find- 
+	for searching files in a directory hierarchy
+history- 
+	show the past terminal entries
+echo-
+	displays the given line of text in the terminal
+export-
+	Used for marking an enviroment variable to be exported with a newly forked child processes
+passwd-
+	For changing user password
+iptables-
+	Used to set up or inspect the tables of IPv4 and IPv6 packet filter rules in the Kernel.
+insmod-
+	Program to insert a module into the Linux Kernel
+lsmod-
+	Shows the status of modules in Linux Kernel
+rmmod-
+	Removes modules from the Linux Kernel
+ls-
+	lists the contents of a given directory
+mv-
+	Used for moving files, or renaming them by moving to the same place
+cp-
+	Used for copying files and directories
+rm-
+	Used for removing files and directories
+mkdir-
+	Used for creating directories
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

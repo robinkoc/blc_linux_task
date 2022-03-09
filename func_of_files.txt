@@ -1,0 +1,6 @@
+/etc/hosts:
+	This file contains the IP host names and addresses for the local host and other hosts in the internet network
+/etc/resolv.conf:
+	This is a configuration file for dns name servers. It is human readible and includes keywords that provide types of resolver information
+/etc/nsswitch.conf:
+	This file is used when configuringwhich services are to be used to determine hostnames, passwords, group files etc. 

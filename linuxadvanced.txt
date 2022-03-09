@@ -1,0 +1,48 @@
+1.
+	Default gateway appears with UG flag and it is 190.190.190.1 on my computer. It can be
+	accesed through route -n command.
+2.
+	I tried ping 190.190.190.1 command and I did get an answer so it means it is working.
+3.
+	15:45:49.739051 IP robin.50654 > _gateway.domain: 49190+ A? ssl.gstatic.com. (33)
+	15:45:49.900262 IP robin.45675 > _gateway.domain: 62428+ PTR? 1.43.168.192.in-addr.arpa. (43)
+	15:45:50.035462 IP _gateway.domain > robin.50654: 49190 1/4/8 A 172.217.17.99 (304)
+	I got these three packages by using sudo tcpdump > packages.txt command and taking first 3
+4.
+	I used sudo apt install wireshark command
+5.
+	If a device acts like a host and gives permission we can use ssh to connect. I tried
+6.
+	After connecting to my friends computer and I could see the contents and travel through
+	his folders
+7.
+	Chrome is taking the most memory among the running processes.
+	3417 robin     20   0   16,5g 364492 154948 S   0,0   3,0   5:08.72 chrome
+8.
+	grep -rl 'open vswitch' /hom /homee
+9.
+	There is no such a file named GUIDE on my computer. I used find ~ -name GUIDE.
+10.
+	I used sudo ufw disable command and the firewall was already closed.
+11.
+	Used lsmod. 
+	ip6table_filter        16384  0
+	ip6_tables             32768  1 ip6table_filter
+	iptable_filter         16384  0
+12.
+	I just typed firefox into the command prompt
+13.
+	Ctrl+C
+14.
+	history | head -65 | tail -1 for the 65th  ->  65 jobs
+	history | head -24 | tail -1 for the 24th  ->  24 echo
+	history | head -12 | tail -1 for the 12th  ->  
+	12  openssl req -new -x509 -newkey rsa:2048 -keyout MOK.priv -outform DER -out MOK.der -nodes
+	-days 36500 -subj "/CN=VMware/"
+	history | head -70 | tail -1 for the 70th  ->  70 cat $SHELL
+15.
+	ifconfig
+	inet 192.168.43.98  netmask 255.255.255.0
+	
+16.
+	man wget 
